@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<member>
+	<player>
+		<name>Keylor Navas</name>
+		<position>Goalkeeper</position>
+        <height>1.85 m (6 ft 1 in)</height>
+        <weight>80 kg</weight>
+        <nationality>Spanish, Costa Rican</nationality>
+        <age>December 15, 1986</age>
+        <image>one.jpg</image>
+        <url>https://www.realmadrid.com/en</url>
+     </player>
+    <player>
+        <name>Daniel Carvajal</name>
+        <position>Right back</position>
+        <height>1.73 m (5 ft 8 in)</height>
+        <weight>73 kg</weight>
+        <nationality>Spanish</nationality>
+        <age>11 January 1992</age>
+        <image>two.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Vallejo</name>
+        <position>Centre back</position>
+        <height>1.83 m (6 ft 0 in)</height>
+        <weight>79 kg</weight>
+        <nationality>Spanish</nationality>
+        <age>5 January 1997</age>
+        <image>three.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Sergio Ramos</name>
+        <position>Defender</position>
+        <height>1.84 m (6 ft 0 in)</height>
+        <weight>82 kg</weight>
+        <nationality>Spanish</nationality>
+        <age>March 30, 1986</age>
+        <image>four.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Raphael Varane</name>
+        <position>Centre-back</position>
+        <height>1.91 m (6 ft 3 in)</height>
+        <weight>78 kg</weight>
+        <nationality>French, Martinican</nationality>
+        <age>25 April 1993</age>
+        <image>five.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Nacho</name>
+        <position>Defender</position>
+        <height>1.79 m (5 ft 10 in)</height>
+        <weight>75 kg</weight>
+        <nationality>Spanish</nationality>
+        <age>18 January 1990</age>
+        <image>six.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Cristiano Ronaldo</name>
+        <position>Forward</position>
+        <height>1.87 m (6 ft 2 in)</height>
+        <weight>80 kg</weight>
+        <nationality>Spanish</nationality>
+        <age>5 February 1985</age>
+        <image>seven.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Toni Kroos</name>
+        <position>Midfielder</position>
+        <height>1.83 m (6 ft 0 in)</height>
+        <weight>78 kg</weight>
+        <nationality>German</nationality>
+        <age>4 January 1990</age>
+        <image>eight.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Karim Benzema</name>
+        <position>Striker</position>
+        <height>1.85 m (6 ft 1 in)</height>
+        <weight>81 kg</weight>
+        <nationality>Franch</nationality>
+        <age>19 December 1987</age>
+        <image>night.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Luka Modric</name>
+        <position>Midifielder</position>
+        <height>1.72 m (5 ft 8 in)</height>
+        <weight>66 kg</weight>
+        <nationality>Croatia</nationality>
+        <age>9 September 1985</age>
+        <image>ten.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Gareth Bale</name>
+        <position>Winger</position>
+        <height>1.85 m (6 ft 1 in)</height>
+        <weight>82 kg</weight>
+        <nationality>Wales</nationality>
+        <age>July 16, 1989</age>
+        <image>eleven.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Marclo</name>
+        <position>Left Back</position>
+        <height>1.74 m (5 ft 9 in)</height>
+        <weight>82 kg</weight>
+        <nationality>Brazil</nationality>
+        <age>May 12, 1988</age>
+        <image>twelve.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Kiko Casilla</name>
+        <position>Goalkeeper</position>
+        <height>1.91 m (6 ft 3 in)</height>
+        <weight>86 kg</weight>
+        <nationality>Spanish</nationality>
+        <age>October 2, 1986</age>
+        <image>thirteen.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Isco</name>
+        <position>Attacking midfielder</position>
+        <height>1.78 m (5 ft 10 in)</height>
+        <weight>79 kg</weight>
+        <nationality>Spanish</nationality>
+        <age>April 21, 1992</age>
+        <image>fourteen.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+    <player>
+        <name>Casemiro</name>
+        <position>Defensive midfielder</position>
+        <height>1.84 m (6 ft 0 in)</height>
+        <weight>84 kg</weight>
+        <nationality>Brazil</nationality>
+        <age>February 23, 1986</age>
+        <image>fifteen.png</image>
+        <url>https://www.realmadrid.com/en</url>
+    </player>
+</member>
+
+
+
+
